@@ -34,11 +34,6 @@ This project focuses on the *automatic classification of COVID-19-related tweets
 
 ---
 
-## 📄 Project Report
-📥 [Download Full Report (PDF)](annotated-Written%20Report-1.pdf)
-
----
-
 ## 📌 Dataset
 - 41,158 COVID-19 tweets
 - Annotated into topics like Symptoms, Medical Advice, Government Policies, and Personal Experiences
